@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strophe/strophejs-plugin-rsm.git"
+    "url": "git+https://github.com/jonrmar/strophejs-plugin-rsm.git"
   },
   "keywords": [
     "xmpp",
